@@ -51,7 +51,7 @@ O CinePass utiliza a API do **The Movie Database (TMDB)** para consultar informa
 
 Endpoints utilizados:
 
-- Filmes em cartaz
+- Filmes em cartaz.
 - Filmes populares
 - Detalhes de um filme específico
 
